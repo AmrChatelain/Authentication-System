@@ -1,0 +1,23 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "description": "auth system",
+  "homepage": "https://github.com/AmrChatelain/Authentication-System#readme",
+  "bugs": {
+    "url": "https://github.com/AmrChatelain/Authentication-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrChatelain/Authentication-System.git"
+  },
+  "license": "ISC",
+  "author": "Amr Chatelain",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
